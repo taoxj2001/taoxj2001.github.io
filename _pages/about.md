@@ -1,8 +1,9 @@
 ---
 permalink: /
-title: "Xingjian Tao | Academic Homepage"
+title: "Xingjian Tao \| Academic Homepage"
 header: false
 author_profile: true
+hidden: true
 redirect_from: 
   - /about/
   - /about.html
