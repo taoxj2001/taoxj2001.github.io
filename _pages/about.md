@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xingjian Tao"
+title: "Xingjian Tao | Academic Homepage"
 header: false
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-## About Me
+# About Me
 
 I am a Ph.D. student at [**The Hong Kong University of Science and Technology (Guangzhou)**](https://www.hkust-gz.edu.cn/), starting in 2024, advised by [**Prof. Jing Tang**](https://sites.google.com/view/jtang) and [**Prof. Yiwei Wang**](https://wangywust.github.io/).
 
