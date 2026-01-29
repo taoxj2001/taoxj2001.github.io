@@ -6,4 +6,4 @@ Before joining HKUST (GZ), I received my **B.S. degree** from the **School of Ma
 
 My research interests focus on **large language models (LLMs)** and **multimodal large language models**, with particular emphasis on **reasoning** and **post-training techniques** (e.g., alignment, reinforcement learning, and optimization after pretraining).
 
-> *I am actively seeking research internship opportunities in industry, worldwide. If you’re interested in collaborating or exploring potential research opportunities, please don’t hesitate to reach out. 
+> *I am actively seeking research internship opportunities in industry, worldwide. If you’re interested in collaborating or exploring potential research opportunities, please don’t hesitate to reach out*. 
