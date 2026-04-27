@@ -22,7 +22,7 @@ My research interests focus on **large language models (LLMs)** and **multimodal
 
 # Education
 
-* 2024/09 --- Present: **Ph.D.** in Data Science and Analytics, Hong Kong University of Science and Technology (Guangzhou)
+* 2024/09 --- Present: **Ph.D.** in Data Science and Analytics, The Hong Kong University of Science and Technology (Guangzhou)
 * 2020/09 --- 2024/06: **B.Sc.** in Information Management and Information System, 	South China University of Technology
 
 # Publication
