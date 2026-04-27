@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 
-I am a Ph.D. student at [**The Hong Kong University of Science and Technology (Guangzhou)**](https://www.hkust-gz.edu.cn/), starting in 2024, advised by [**Prof. Jing Tang**](https://sites.google.com/view/jtang) and [**Prof. Yiwei Wang**](https://wangywust.github.io/).
+I am a Ph.D. student at [**The Hong Kong University of Science and Technology (Guangzhou)**](https://www.hkust-gz.edu.cn/), starting in 2024, advised by [**Prof. Jing Tang**](https://sites.google.com/view/jtang) and [**Prof. Yiwei Wang**](https://wangywust.github.io/). I have also been fortunate to collaborate with [**Prof. Yujun Cai**](https://vanoracai.github.io/), whose guidance and support have been invaluable to my research.
 
 Before joining HKUST (GZ), I received my Bachelor degree from the School of Mathematics, South China University of Technology in 2024.
 
