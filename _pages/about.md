@@ -18,7 +18,7 @@ Before joining HKUST (GZ), I received my Bachelor degree from the School of Math
 
 My research interests focus on **large language models (LLMs)** and **multimodal large language models**, with particular emphasis on **reasoning** and **post-training techniques** (e.g., alignment, reinforcement learning, and optimization after pretraining).
 
-> *I am actively seeking research internship opportunities in industry, worldwide. If you’re interested in collaborating or exploring potential research opportunities, please don’t hesitate to reach out*. 
+> *I am actively seeking research internship opportunities in industry. If you’re interested in collaborating or exploring potential research opportunities, please don’t hesitate to reach out*. 
 
 # Education
 
@@ -77,6 +77,12 @@ ECCV 2024 <br />
 
 * <div>Research Assistant, Hong Kong University of Science and Technology (Guangzhou)</div> 
 
+
+
+
+<a href="https://info.flagcounter.com/npxL"><img src="https://s05.flagcounter.com/map/npxL/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
+
 ----
 
 
@@ -86,5 +92,3 @@ document.write("Last modifid at: "+document.lastModified+"" )
 
 
 ----
-
-<a href="https://info.flagcounter.com/npxL"><img src="https://s05.flagcounter.com/map/npxL/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
