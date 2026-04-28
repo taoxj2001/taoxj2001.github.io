@@ -36,7 +36,7 @@ Preprint, 2026 <br />
 
 <strong><font style="color:#1f57b8">Mitigating Coordinate Prediction Bias from Positional Encoding Failures
 </font></strong><br />
-**Xingjian Tao**, Yiwei Wang, Yujun Cai, Yihong Luo, Jing Tang <br />
+**Xingjian Tao**, Yiwei Wang, Yujun Cai, Yihong Luo, Kai Han, Jing Tang <br />
 Findings of ACL 2026 <br />
 [[Paper]](https://arxiv.org/abs/2510.22102) <br />
 
