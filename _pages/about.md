@@ -30,7 +30,7 @@ My research interests focus on **large language models (LLMs)** and **multimodal
 <strong><font style="color:#1f57b8">ViewFusion: Structured Spatial Thinking Chains for Multi-View Reasoning
 </font></strong><br />
 **Xingjian Tao**, Yiwei Wang, Yujun Cai, Yifan Song, Jing Tang <br />
-Preprint, 2026 <br />
+ECCV 2026 <br />
 [[Paper]](https://arxiv.org/abs/2603.06024) <br />
 
 
@@ -74,6 +74,9 @@ ECCV 2024 <br />
 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-73013-9_19) <br />
 
 # Experience
+
+* <div>Research Intern, Tencent</div> 
+
 
 * <div>Research Assistant, Hong Kong University of Science and Technology (Guangzhou)</div> 
 
