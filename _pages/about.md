@@ -12,11 +12,13 @@ redirect_from:
 
 # About Me
 
-I am a Ph.D. student at [**The Hong Kong University of Science and Technology (Guangzhou)**](https://www.hkust-gz.edu.cn/), starting in 2024, advised by [**Prof. Jing Tang**](https://sites.google.com/view/jtang) and [**Prof. Yiwei Wang**](https://wangywust.github.io/). I have also been fortunate to collaborate with [**Prof. Yujun Cai**](https://vanoracai.github.io/), whose guidance and support have been invaluable to my research.
+I am a Ph.D. student at [**The Hong Kong University of Science and Technology (Guangzhou)**](https://www.hkust-gz.edu.cn/), starting in 2024, advised by [**Prof. Jing Tang**](https://sites.google.com/view/jtang) and [**Prof. Yiwei Wang**](https://wangywust.github.io/). I have also been fortunate to collaborate with [**Prof. Yujun Cai**](https://vanoracai.github.io/), whose guidance and support have been invaluable to my research. 
 
 Before joining HKUST (GZ), I received my Bachelor degree from the School of Mathematics, South China University of Technology in 2024.
 
 My research interests focus on **large language models (LLMs)** and **multimodal large language models**, with particular emphasis on **reasoning** and **post-training techniques** (e.g., alignment, reinforcement learning, and optimization after pretraining).
+
+I am currently an intern with the Tencent Hunyuan Speech team, focusing my research on agentic interation models.
 
 > *I am actively seeking research internship opportunities in industry. If you’re interested in collaborating or exploring potential research opportunities, please don’t hesitate to reach out*. 
 
@@ -24,6 +26,14 @@ My research interests focus on **large language models (LLMs)** and **multimodal
 
 * 2024/09 --- Present: **Ph.D.** in Data Science and Analytics, The Hong Kong University of Science and Technology (Guangzhou)
 * 2020/09 --- 2024/06: **B.Eng.** in Information Management and Information System, 	South China University of Technology
+
+
+# Experience
+
+* <div>Research Intern (Qingyun Intern), Hunyuan Speech Team, Tencent</div> 
+
+
+* <div>Research Assistant, Hong Kong University of Science and Technology (Guangzhou)</div> 
 
 # Publication
 
@@ -73,12 +83,7 @@ Yihong Luo, Siya Qiu, **Xingjian Tao**, Yujun Cai, Jing Tang <br />
 ECCV 2024 <br />
 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-73013-9_19) <br />
 
-# Experience
 
-* <div>Research Intern, Tencent</div> 
-
-
-* <div>Research Assistant, Hong Kong University of Science and Technology (Guangzhou)</div> 
 
 
 
